@@ -1,0 +1,26 @@
+body{
+	front.font-family: Times, arial;
+	background: #e8e8e8;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092377;
+	width: 100%;
+	max-width: 1600px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 35px;
+	display: block;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li:hover{
+	background: #ef8354;
+}
